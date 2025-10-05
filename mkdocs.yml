@@ -11,3 +11,8 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
+
+nav:
+  - 首页: index.md
+  - 常识: '常识/!*.md'
+  - 其他页面: '!*.md'
